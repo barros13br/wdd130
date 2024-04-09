@@ -10,15 +10,15 @@ body {
     --primay-color: #8ecae6;
     --secondary-color: #023047;
     --accent-color: #ffb703;
-    --additional-accent-color:;
+    --additional-accent-color:#XXXXXX;
     
     --heading-font:"Roboto Slab", serif;
     --paragraph-or-default-font:"Ubuntu", sans-serif;
 
-    --nav-background-color:;
-    --nav-link-color:;
-    --nav-hover-link-color:;
-    --nav-hover-background-color:;
+    --nav-background-color: #xxxxxx;
+    --nav-link-color:#XXXXXX;
+    --nav-hover-link-color:#XXXXXX;
+    --nav-hover-background-color:#XXXXXX;
 }
 
 body {
