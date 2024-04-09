@@ -9,8 +9,8 @@ body {
 :root{
     --primay-color: #8ecae6;
     --secondary-color: #023047;
-    --accent-color: #ffb703;
-    --additional-accent-color:#fb8500;
+    --accent1-color: #ffb703;
+    --accent2-color:none;
     
     --heading-font:"Roboto Slab", serif;
     --paragraph-or-default-font:"Ubuntu", sans-serif;
@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6{
 
 header {
     padding: 20px;
-    background-color: var(--accent-color);
+    background-color: var(--accent1-color);
 }
 
 p{
