@@ -7,13 +7,13 @@ body {
 }
 
 :root{
-    --primay-color: #8ecae6;
+    --primary-color: #8ecae6;
     --secondary-color: #023047;
     --accent1-color: #ffb703;
     --accent2-color:none;
     
     --heading-font:"Roboto Slab", serif;
-    --paragraph-or-default-font:"Ubuntu", sans-serif;
+    --paragraph-font:"Ubuntu", sans-serif;
 
     --nav-background-color: lightgray;
     --nav-link-color:lightblue;
@@ -29,7 +29,7 @@ body {
 
 h1, h2, h3, h4, h5, h6{
     font-family: var(--heading-font);
-    color:var(--primay-color);
+    color:var(--primary-color);
 }
 
 header {
