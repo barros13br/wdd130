@@ -49,17 +49,26 @@ aside {
     background-color: #eee;
     color: #333;
     text-align: center;
+    position: relative;
 }
 
 aside img {
     width: 200px;
     height: auto;
+    float: none;
 }
 
 footer {
     margin-top: 15px;
     border-top: 1px solid #000;
     text-align: center;
+}
+
+aside h2 {
+    position: absolute;
+    top: 40px;
+    left: 170px;
+    font-size: small; 
 }
 /* Class Selectors */
 .box {
